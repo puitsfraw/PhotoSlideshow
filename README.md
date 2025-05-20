@@ -28,7 +28,7 @@ mkdir photos
 
 Navigate to file folder and add photos to album
 
-## Config
+## Configuration
 
 {
   module: "PhotoSlideshow",
