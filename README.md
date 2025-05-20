@@ -32,8 +32,8 @@ Navigate to file folder and add photos to album
 
 {
   module: "PhotoSlideshow", <BR>
-  position: "top_center", // Aligns at the top of the screen
-  config: {
+  position: "top_center", // Aligns at the top of the screen<BR>
+  config: {<BR>
     imagePath: "/home/(your magic mirror name)/MagicMirror/photos",
     slideInterval: 60000,              // Change photo every 60 seconds
     width: "1080px",                   // Width constraint (optional)
