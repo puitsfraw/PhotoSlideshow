@@ -28,10 +28,10 @@ mkdir photos
 
 Navigate to file folder and add photos to album
 
-## Configuration
+## Config
 
 {
-  module: "PhotoSlideshow",
+  module: "PhotoSlideshow", <BR>
   position: "top_center", // Aligns at the top of the screen
   config: {
     imagePath: "/home/(your magic mirror name)/MagicMirror/photos",
